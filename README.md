@@ -1,3 +1,3 @@
 # git-github
 
-This is just for learning purposer
+This is just for learning purpose
